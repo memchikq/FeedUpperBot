@@ -1,6 +1,6 @@
 # FeedUpper
 
-🇷🇺 [Русский](#русский) · 🇬🇧 [English](#english)
+RU [Русский](#русский) ·EN [English](#english)
 
 ---
 
